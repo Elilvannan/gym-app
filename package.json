@@ -1,6 +1,5 @@
 {
   "name": "fitclub",
-    "homepage": "https://elilvannan.github.io/gym-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
